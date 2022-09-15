@@ -19,7 +19,7 @@ I'm Veerendra K!
 
 I'm a Graduate Student living in Bangalore, India. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Bangalore, drop an email and let's catch-up over Coffee!
  
-- Know more about me: [About Veerendra](https://github.com/Portfolio/index.html)
+- Know more about me: [About Veerendra K](https://github.com/Veerendra-K/PortfolioWebSite/blob/main/Results/AboutPage.png)
 - Write to me: [veerendrasagar.k48@gmail.com](mailto:veerendrasagar.k48@gmail.com)
 
 
